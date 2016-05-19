@@ -1,0 +1,5 @@
+# gen by clone v0.1
+from_dir : /home/a
+to_dir : /home/b 
+omit_dir : []
+omit_file : []
